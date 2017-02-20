@@ -1,3 +1,8 @@
+Note
+===================================
+Initial framework (A Starting point) was provided by Udacity. The rest of the code was completed by Dhyan Shah.
+
+
 Pets App
 ===================================
 
